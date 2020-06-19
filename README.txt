@@ -1,3 +1,6 @@
+#################
+#### 电子商务 ####
+#################
 ### 商品信息库微服务 -- products micro
 $ mvn archetype:generate -DgroupId=com.microbe.products -DartifactId=microbe-products -DarchetypeArtifactId=pom-root -DinteractiveMode=false -DarchetypeGroupId=org.codehaus.mojo.archetypes -DarchetypeVersion=RELEASE -DarchetypeCatalog=local
 ### 商品信息库微服务 -- products ett
